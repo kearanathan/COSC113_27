@@ -15,14 +15,14 @@ public class StudentInfo {
         student1 = new StudentInfo();
         student2 = new StudentInfo();
 
-        student1.FN = "John";
-        student1.LN = "Smith";
+        student1.FN = "Matt";
+        student1.LN = "pike";
         student1.Std = 12345;
         student1.CGP = 3.50;
 
-        student2.FN = "Jane";
-        student2.LN = "Doe";
-        student2.Std = 67890;
+        student2.FN = "clara";
+        student2.LN = "lucien";
+        student2.Std = 12900;
         student2.CGP = 3.80;
 
         System.out.println("Student 1");
